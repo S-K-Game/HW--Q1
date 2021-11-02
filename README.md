@@ -34,7 +34,7 @@
 ![](https://github.com/S-K-Game/HW3-Q1/blob/master/Assets/images/1.png)
 
  
-*The Game*
+[*The Game*- לחץ למעבר למשחק](https://s-k-games.itch.io/components)
  ![](https://github.com/S-K-Game/HW3-Q1/blob/master/Assets/images/the%20game.png)
 
 
