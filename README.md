@@ -34,8 +34,8 @@
 ![](https://github.com/S-K-Game/HW3-Q1/blob/master/Assets/images/1.png)
 
  
-
- ![**The Game**](https://github.com/S-K-Game/HW3-Q1/blob/master/Assets/images/the%20game.png)
+*The Game*
+ ![](https://github.com/S-K-Game/HW3-Q1/blob/master/Assets/images/the%20game.png)
 
 
 </div>
